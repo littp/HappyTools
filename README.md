@@ -7,4 +7,4 @@
 --- 
 
 ### 密码类
-1. [密码随机生成器 http://suijimimashengcheng.51240.com](http://suijimimashengcheng.51240.com/) 
+1. [密码随机生成器 http://suijimimashengcheng.51240.com](http://suijimimashengcheng.51240.com/)  日常密码的生成利器
